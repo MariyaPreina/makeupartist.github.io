@@ -1,6 +1,8 @@
 # Makeup Artist Website
 
 [ANNE BEAUTY] is an make up artist website.
+
+
 A small web project, to improve my knowledge of web development.
 
 
@@ -12,6 +14,7 @@ A small web project, to improve my knowledge of web development.
 * SASS
 * Flexbox
 * jQuery
+* NPM
 
 
 
