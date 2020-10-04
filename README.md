@@ -14,7 +14,7 @@ A small web project, to improve my knowledge of web development.
 * SASS
 * Flexbox
 * jQuery
-* NPM
+
 
 
 
